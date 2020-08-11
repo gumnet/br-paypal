@@ -2,7 +2,7 @@
     "name": "gumnet/br-paypal",
     "license": "GPL-3.0-only",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "description": "Módulo PayPal para Magento2 - continuacao do desenvolvimento por GumNet",
     "repositories": [
         {
