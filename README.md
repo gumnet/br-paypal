@@ -1,4 +1,12 @@
-# Módulo PayPal para Magento2
+# Módulo PayPal para Magento2 - continuação
+Este é um fork do módulo br-paypaldev/magento2-module abandonado em 2018.
+Devido a necessidade de compatibilidade com novas versões do Magento assim como correções de bugs pendentes optamos pelo fork respeitando os direitos autorais. 
+
+Este módulo foi originalmente desenvolvido por Arthur Puhlmann - apuhlmann@paypal.com
+
+Para a versão atualizada utilize: composer require gumnet/br-paypal
+
+## Módulo PayPal para Magento2 - documento original abaixo
 ![](https://raw.githubusercontent.com/wiki/paypal/PayPal-PHP-SDK/images/homepage.jpg)
 
 Página oficial do módulo PayPal com as soluções utilizadas no mercado Brasileiro para Magento 2.
